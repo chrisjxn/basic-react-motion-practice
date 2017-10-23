@@ -1,5 +1,5 @@
 
-// following along here: https://scrimba.com/casts/c67ygAr
+// follow along here: https://scrimba.com/casts/c67ygAr
 
 import React, { Component } from 'react';
 import { Motion, spring } from 'react-motion';
